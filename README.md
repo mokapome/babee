@@ -2,4 +2,4 @@
 팀프로젝트
 <img src="https://capsule-render.vercel.app/api?type=waving&color=green&height=200&section=header&text=TeamProject&fontSize=90" />
 
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alstnrb99@gmail.com&layout=compact"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokapome&layout=compact"><br><br>
