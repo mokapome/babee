@@ -19,9 +19,23 @@
 
 프로젝트에서 사용된 주요 기술 스택:
 
-- Spring Boot
-- JSP
-- 기타 필요한 기술
+## 백엔드 기술
+
+| 기술 | 설명 |
+| --- | --- |
+| ![Spring Boot](https://link-to-image/spring-boot.png) | Spring Boot를 사용하여 백엔드 개발 |
+| ![MyBatis](https://link-to-image/mybatis.png) | MyBatis를 사용한 데이터베이스 액세스 |
+| ![Tomcat](https://link-to-image/tomcat.png) | Apache Tomcat 웹 서버 |
+
+## 프론트엔드 기술
+
+| 기술 | 설명 |
+| --- | --- |
+| ![Eclipse](https://link-to-image/eclipse.png) | Eclipse IDE를 사용한 개발 환경 |
+| ![JavaScript](https://link-to-image/javascript.png) | JavaScript 프로그래밍 언어 |
+| ![jQuery](https://link-to-image/jquery.png) | jQuery 라이브러리 |
+| ![Bootstrap](https://link-to-image/bootstrap.png) | Bootstrap 프론트엔드 프레임워크 |
+| ![Ajax](https://link-to-image/ajax.png) | Ajax 비동기 통신 기술 |
 
 ## 프로젝트 구조
 
