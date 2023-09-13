@@ -17,27 +17,27 @@
 
 ## 기술 스택
 
-프로젝트에서 사용된 주요 기술 스택:
-
-## 기술 스택
-
-## 백엔드 기술
-
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/MyBatis-663300?style=for-the-badge&logo=mybatis&logoColor=white" alt="MyBatis">
-<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache&logoColor=black" alt="Tomcat">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
-<img src="https://img.shields.io/badge/REST API-FF5733?style=for-the-badge&logo=rest&logoColor=white" alt="REST API">
-
-## 프론트엔드 기술
-
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-<img src="https://img.shields.io/badge/Ajax-4A90E2?style=for-the-badge&logo=ajax&logoColor=white" alt="Ajax">
-
+<table>
+  <tr>
+    <td align="center">
+      <h3>백엔드 기술</h3>
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/MyBatis-663300?style=for-the-badge&logo=mybatis&logoColor=white" alt="MyBatis">
+      <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache&logoColor=black" alt="Tomcat">
+      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
+      <img src="https://img.shields.io/badge/REST API-FF5733?style=for-the-badge&logo=rest&logoColor=white" alt="REST API">
+    </td>
+    <td align="center">
+      <h3>프론트엔드 기술</h3>
+      <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+      <img src="https://img.shields.io/badge/Ajax-4A90E2?style=for-the-badge&logo=ajax&logoColor=white" alt="Ajax">
+    </td>
+  </tr>
+</table>
 
 ## 프로젝트 구조
 
