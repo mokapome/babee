@@ -49,7 +49,10 @@
 </div>
 
 ## 시연영상
-<video src="https://github.com/mokapome/babee/assets/142473323/40c14c36-8390-4338-903c-ac84d53e1349" autoplay controls loop>
+
+사용자 회원가입/로그인
+<video src="https://github.com/mokapome/babee/assets/142473323/b3ff55af-a93a-4b6e-b6ee-b25910f6bcb1" autoplay controls loop>
+
 
 
 
