@@ -53,41 +53,40 @@
 사용자 회원가입/로그인<br>
 실시간으로 아이디 유효성 검사를 진행
  
- [1](https://github.com/mokapome/babee/assets/142473323/b2fc82b8-4f93-43ef-b944-b08b41395bcf)
+[사용자 회원가입/로그인](https://github.com/mokapome/babee/assets/142473323/b2fc82b8-4f93-43ef-b944-b08b41395bcf)
 <br>
-사용자 회원정보 수정
 
-[2](https://github.com/mokapome/babee/assets/142473323/62434087-4de8-4cc6-bec5-d9df3456a542)
+[사용자 회원정보 수정](https://github.com/mokapome/babee/assets/142473323/62434087-4de8-4cc6-bec5-d9df3456a542)
 <br>
-사용자 회원탈퇴
 
-[3](https://github.com/mokapome/babee/assets/142473323/741ec11b-b74b-4c78-a0a2-b0453e0a72c4)
+
+[사용자 회원탈퇴](https://github.com/mokapome/babee/assets/142473323/741ec11b-b74b-4c78-a0a2-b0453e0a72c4)
 <br>
-사용자 카카오 상품 구매
 
-[4](https://github.com/mokapome/babee/assets/142473323/b3bbba5f-2a77-40c4-8ad6-e82948348791)
+
+[사용자 카카오 상품 구매](https://github.com/mokapome/babee/assets/142473323/b3bbba5f-2a77-40c4-8ad6-e82948348791)
 <br>
-사용자 장바구니 묶음 구매
 
-[5](https://github.com/mokapome/babee/assets/142473323/0730dc5c-b26a-44b2-a6fe-3c4b535d95ae)
+
+[사용자 장바구니 묶음 구매](https://github.com/mokapome/babee/assets/142473323/0730dc5c-b26a-44b2-a6fe-3c4b535d95ae)
 <br>
-사용자 육아정보
 
-[6](https://gitub.com/mokapome/babee/assets/142473323/2891c77d-d251-47a8-8b22-98ac6ba685f7)
+
+[사용자 육아정보](https://gitub.com/mokapome/babee/assets/142473323/2891c77d-d251-47a8-8b22-98ac6ba685f7)
 <br>
-사용자 상품리뷰
 
-[7](https://github.com/mokapome/babee/assets/142473323/1b43d084-0a2d-45e5-a797-6e9974a8d7f6)
+
+[사용자 상품리뷰](https://github.com/mokapome/babee/assets/142473323/1b43d084-0a2d-45e5-a797-6e9974a8d7f6)
 <br>
-고객센터 문의하기
 
-[8](https://github.com/mokapome/babee/assets/142473323/e3e087b6-64ba-47f7-b1ae-fab7b5a33847)
+
+[고객센터 문의하기](https://github.com/mokapome/babee/assets/142473323/e3e087b6-64ba-47f7-b1ae-fab7b5a33847)
 <br>
-사업자 상품등록
 
-[9](https://github.com/mokapome/babee/assets/142473323/d84a9a06-3a0b-4478-8d14-46f954a786a5)
+
+[사업자 상품등록](https://github.com/mokapome/babee/assets/142473323/d84a9a06-3a0b-4478-8d14-46f954a786a5)
 <br>
-사업자 상품문의 답변
 
-[10](https://github.com/mokapome/babee/assets/142473323/d94a5355-60ba-41d1-85c2-dad578b1998c)
+
+[사업자 상품문의 답변](https://github.com/mokapome/babee/assets/142473323/d94a5355-60ba-41d1-85c2-dad578b1998c)
 
