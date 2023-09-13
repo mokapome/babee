@@ -8,10 +8,12 @@
 스프링부트와 JSP를 사용하여 개발한 육아용품 쇼핑몰 프로젝트입니다. <br>
 이 프로젝트는 간단하고 직관적인 UI로 사용자에게 편의성을 제공하며, 다양한 커뮤니티와 육아에 도움이 되는 정보를 제공합니다.
 
-## 프로젝트 스크린샷
+## 프로젝트 개요
 
-![스크린샷1](https://github.com/mokapome/babee/assets/142473323/f00ba41d-336e-4542-9527-36d4d2c64b15)
-![스크린샷2](https://github.com/mokapome/babee/assets/142473323/c1eb6e0d-b4ab-4ac4-8a63-062be1001ff7)
+첫번째로 육아용품 쇼핑몰을 제작하게 된 이유로 맞벌이 가구의 증가가 있습니다.<br>
+두번째로는 출생아수는 감소하지만 텐포켓 현상으로 육아시장의 규모는 커지고 있습니다. 
+![스크린샷1](https://github.com/mokapome/babee/assets/142473323/f00ba41d-336e-4542-9527-36d4d2c64b15 =300x300)
+![스크린샷2](https://github.com/mokapome/babee/assets/142473323/c1eb6e0d-b4ab-4ac4-8a63-062be1001ff7 =300x300)
 
 ## 기술 스택
 
