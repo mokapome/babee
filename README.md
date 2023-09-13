@@ -47,6 +47,11 @@
 
 ## 개발일정
 
-<img src="https://github.com/mokapome/babee/raw/master/assets/142473323/9c2cc171-ae30-4151-8fed-580eeec03ef6" width="400" height="400" alt="image">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mokapome/babee/master/assets/142473323/9c2cc171-ae30-4151-8fed-580eeec03ef6" width="400" height="400" alt="image">
+</div>
+
+
+
 
 
