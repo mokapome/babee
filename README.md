@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&section=header&text=Babee&fontSize=90" />
 </div>
-
+[PDF 파일 보기](https://github.com/mokapome/babee/blob/main/Babee%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)
 ## 프로젝트 소개
 
 스프링부트와 JSP를 사용하여 개발한 육아용품 쇼핑몰 프로젝트입니다. <br>
