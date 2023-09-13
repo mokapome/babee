@@ -1,7 +1,6 @@
 # SpringBoot+JSP TeamProject
-# Babee
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=TeamProject&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=Babee&fontSize=90" />
 </div>
 
 ## 프로젝트 소개
