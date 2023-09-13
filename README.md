@@ -19,23 +19,29 @@
 
 프로젝트에서 사용된 주요 기술 스택:
 
-## 백엔드 기술
+## 기술 스택
+
+### 백엔드
 
 | 기술 | 설명 |
 | --- | --- |
-| ![Spring Boot](https://link-to-image/spring-boot.png) | Spring Boot를 사용하여 백엔드 개발 |
-| ![MyBatis](https://link-to-image/mybatis.png) | MyBatis를 사용한 데이터베이스 액세스 |
-| ![Tomcat](https://link-to-image/tomcat.png) | Apache Tomcat 웹 서버 |
+| ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-🌱-brightgreen) | Spring Boot를 사용하여 백엔드 개발 |
+| ![MyBatis](https://img.shields.io/badge/MyBatis-🗄-orange) | MyBatis를 사용한 데이터베이스 액세스 |
+| ![Tomcat](https://img.shields.io/badge/Tomcat-🌐-blue) | Apache Tomcat 웹 서버 |
+| ![REST API](https://img.shields.io/badge/REST%20API-📡-purple) | RESTful API 디자인 및 구현 |
+| ![Spring Security](https://img.shields.io/badge/Spring%20Security-🔒-red) | Spring Security를 사용한 보안 구현 |
 
-## 프론트엔드 기술
+### 프론트엔드
 
 | 기술 | 설명 |
 | --- | --- |
-| ![Eclipse](https://link-to-image/eclipse.png) | Eclipse IDE를 사용한 개발 환경 |
-| ![JavaScript](https://link-to-image/javascript.png) | JavaScript 프로그래밍 언어 |
-| ![jQuery](https://link-to-image/jquery.png) | jQuery 라이브러리 |
-| ![Bootstrap](https://link-to-image/bootstrap.png) | Bootstrap 프론트엔드 프레임워크 |
-| ![Ajax](https://link-to-image/ajax.png) | Ajax 비동기 통신 기술 |
+| ![Eclipse](https://img.shields.io/badge/Eclipse-🌌-purple) | Eclipse IDE를 사용한 개발 환경 |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-🚀-yellow) | JavaScript 프로그래밍 언어 |
+| ![jQuery](https://img.shields.io/badge/jQuery-💡-blue) | jQuery 라이브러리 |
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-🎨-cyan) | Bootstrap 프론트엔드 프레임워크 |
+| ![Ajax](https://img.shields.io/badge/Ajax-🌐-green) | Ajax 비동기 통신 기술 |
+| ![HTML5](https://img.shields.io/badge/HTML5-🌐-orange) | HTML5 마크업 언어 |
+| ![CSS3](https://img.shields.io/badge/CSS3-🎨-blue) | CSS3 스타일 시트 |
 
 ## 프로젝트 구조
 
