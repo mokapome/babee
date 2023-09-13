@@ -24,7 +24,10 @@
 ### 백엔드
 
 | 기술 | 설명 |
-| --- | --- |
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-🌱-brightgreen) | Spring Boot를 사용하여 백엔드 개발 |
 | ![MyBatis](https://img.shields.io/badge/MyBatis-🗄-orange) | MyBatis를 사용한 데이터베이스 액세스 |
 | ![Tomcat](https://img.shields.io/badge/Tomcat-🌐-blue) | Apache Tomcat 웹 서버 |
