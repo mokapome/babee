@@ -7,7 +7,7 @@
   <img src="https://github.com/mokapome/babee/assets/142473323/f00ba41d-336e-4542-9527-36d4d2c64b15" style="width:300px; height:300px;" />
 <img src=https://github.com/mokapome/babee/assets/142473323/c1eb6e0d-b4ab-4ac4-8a63-062be1001ff7" style="width:300px; height:300px;"/>
 <br><br>
-
+<🖥 width=100px;>
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokapome&layout=compact" /><br><br>
   
