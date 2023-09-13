@@ -1,4 +1,5 @@
-# babee
+# SpringBoot+JSP-TeamProject
+스프링부트+JSP 육아용품 쇼핑몰
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=TeamProject&fontSize=90" />
 </div>
