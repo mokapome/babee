@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&section=header&text=Babee&fontSize=90" />
 </div>
 
-<a href="https://github.com/mokapome/babee/blob/main/Babee%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf" target="_blank" style="display: inline-block; background-color: #E34F26; color: white; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold;">PDF 파일 보기</a>
+[PDF 파일 보기](https://github.com/mokapome/babee/blob/main/Babee%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)
 
 ## 프로젝트 소개
 
