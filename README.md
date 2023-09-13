@@ -53,6 +53,7 @@
 사용자 회원가입/로그인<br>
 실시간으로 아이디 유효성 검사를 진행
 <video src="https://github.com/mokapome/babee/assets/142473323/b2fc82b8-4f93-43ef-b944-b08b41395bcf"/>
+[1](https://github.com/mokapome/babee/assets/142473323/b2fc82b8-4f93-43ef-b944-b08b41395bcf)
 <br>
 사용자 회원정보 수정
 [2](https://github.com/mokapome/babee/assets/142473323/62434087-4de8-4cc6-bec5-d9df3456a542)
@@ -80,36 +81,4 @@
 [9](https://github.com/mokapome/babee/assets/142473323/d84a9a06-3a0b-4478-8d14-46f954a786a5)
 사업자 상품문의 답변
 [10](https://github.com/mokapome/babee/assets/142473323/d94a5355-60ba-41d1-85c2-dad578b1998c)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
