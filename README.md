@@ -39,7 +39,14 @@
   </tr>
 </table>
 
-## 프로젝트 구조
+## 참고 웹페이지
 
-프로젝트 구조에 대한 간략한 설명을 여기에 추가하세요.
+세이베베: 가독성이 떨어짐
+아이사랑: 정보 접근성이 어려움
+아따맘: 커뮤니티 부족
+
+## 개발일정
+
+<img src="https://github.com/mokapome/babee/raw/master/assets/142473323/9c2cc171-ae30-4151-8fed-580eeec03ef6" width="400" height="400" alt="image">
+
 
