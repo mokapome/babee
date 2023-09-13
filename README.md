@@ -49,4 +49,8 @@
 </div>
 
 ## 시연영상
+<video src="https://github.com/mokapome/babee/assets/142473323/40c14c36-8390-4338-903c-ac84d53e1349" autoplay controls loop>
+
+
+
 
