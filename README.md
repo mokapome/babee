@@ -52,7 +52,7 @@
 
 사용자 회원가입/로그인<br>
 실시간으로 아이디 유효성 검사를 진행
-<video src=https://github.com/mokapome/babee/assets/142473323/b2fc82b8-4f93-43ef-b944-b08b41395bcf/>
+<video src="https://github.com/mokapome/babee/assets/142473323/b2fc82b8-4f93-43ef-b944-b08b41395bcf"/>
 <br>
 사용자 회원정보 수정
 [2](https://github.com/mokapome/babee/assets/142473323/62434087-4de8-4cc6-bec5-d9df3456a542)
