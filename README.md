@@ -21,30 +21,23 @@
 
 ## 기술 스택
 
-### 백엔드
+## 백엔드 기술
 
-| 기술 | 설명 |
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/MyBatis-663300?style=for-the-badge&logo=mybatis&logoColor=white" alt="MyBatis">
+<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache&logoColor=black" alt="Tomcat">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
+<img src="https://img.shields.io/badge/REST API-FF5733?style=for-the-badge&logo=rest&logoColor=white" alt="REST API">
+
+## 프론트엔드 기술
+
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-| ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-🌱-brightgreen) | Spring Boot를 사용하여 백엔드 개발 |
-| ![MyBatis](https://img.shields.io/badge/MyBatis-🗄-orange) | MyBatis를 사용한 데이터베이스 액세스 |
-| ![Tomcat](https://img.shields.io/badge/Tomcat-🌐-blue) | Apache Tomcat 웹 서버 |
-| ![REST API](https://img.shields.io/badge/REST%20API-📡-purple) | RESTful API 디자인 및 구현 |
-| ![Spring Security](https://img.shields.io/badge/Spring%20Security-🔒-red) | Spring Security를 사용한 보안 구현 |
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+<img src="https://img.shields.io/badge/Ajax-4A90E2?style=for-the-badge&logo=ajax&logoColor=white" alt="Ajax">
 
-### 프론트엔드
-
-| 기술 | 설명 |
-| --- | --- |
-| ![Eclipse](https://img.shields.io/badge/Eclipse-🌌-purple) | Eclipse IDE를 사용한 개발 환경 |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-🚀-yellow) | JavaScript 프로그래밍 언어 |
-| ![jQuery](https://img.shields.io/badge/jQuery-💡-blue) | jQuery 라이브러리 |
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-🎨-cyan) | Bootstrap 프론트엔드 프레임워크 |
-| ![Ajax](https://img.shields.io/badge/Ajax-🌐-green) | Ajax 비동기 통신 기술 |
-| ![HTML5](https://img.shields.io/badge/HTML5-🌐-orange) | HTML5 마크업 언어 |
-| ![CSS3](https://img.shields.io/badge/CSS3-🎨-blue) | CSS3 스타일 시트 |
 
 ## 프로젝트 구조
 
