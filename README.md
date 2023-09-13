@@ -48,7 +48,7 @@
 ## 개발일정
 
 <div align="center">
-  <img src="https://github.com/mokapome/babee/assets/142473323/6373fea4-ac71-4630-84e1-0f74c3fdb399" width="400" height="400" alt="image">
+  <img src="https://github.com/mokapome/babee/assets/142473323/6373fea4-ac71-4630-84e1-0f74c3fdb399" alt="image">
 </div>
 
 
